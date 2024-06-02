@@ -1,0 +1,8 @@
+Zadanie
+
+    Przejdź do brancha prework w swoim repozytorium lokalnym.
+    Stwórz w swoim repozytorium lokalnym (folderze na dysku) plik tekstowy o nazwie 'CreateNewFile'.
+    Sprawdź status repozytorium.
+    Dodaj plik do repozytorium.
+    Zatwierdź zmiany w swoim repozytorium.
+    Prześlij ją do repozytorium zdalnego. 
